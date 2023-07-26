@@ -1,1 +1,1 @@
-Web Scraping Practise done in python
+Web Scraping of IPL T20 table  done in python
