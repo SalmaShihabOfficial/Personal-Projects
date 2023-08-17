@@ -33,7 +33,7 @@ Project Steps:
 
     Storing as CSV:
         Utilized the Pandas library to save the cleaned and transformed data into CSV files.
-        Each category of data (e.g., player statistics, team statistics) was saved in a separate CSV file.
+        
 
 Challenges Faced:
 
