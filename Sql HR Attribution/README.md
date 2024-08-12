@@ -6,7 +6,7 @@ Data Cleaning & Analysis - MySQL Workbench
 
 Data Visualization - PowerBI
 
-Questions
+**Questions
 
     What is the gender breakdown of employees in the company?
     What is the race/ethnicity breakdown of employees in the company?
@@ -20,7 +20,7 @@ Questions
     How has the company's employee count changed over time based on hire and term dates?
     What is the tenure distribution for each department?
 
-Summary of Findings
+**Summary of Findings
 
     There are more male employees
     White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
